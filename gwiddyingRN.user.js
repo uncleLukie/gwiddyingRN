@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Remove YouTube's ad blocker popup and unpause the video
-// @author       You
+// @author       uncleLukie
 // @match        *://www.youtube.com/*
 // @grant        none
 // ==/UserScript==

@@ -1,3 +1,6 @@
+# notice
+this doesn't work atm, youtube is going ham on trying to stop adblocker lul
+
 # gwiddyingRN
 hey there! so you're tired of that annoying "ad blocker detected" popup on youtube, right? this script gets rid of it and even hits play on the video for you. 🎉
 
